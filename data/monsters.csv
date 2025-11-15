@@ -1,0 +1,9 @@
+monster_id,name,size,description,skills,hp,stamina,mana,initiative,movement,dodge_rate,crit_rate,physical_attack_pierce,physical_attack_slash,physical_attack_blunt,magical_attack_arcane,magical_attack_holy,magical_attack_water,magical_attack_fire,magical_attack_earth,magical_attack_air,magical_attack_nature,magical_attack_shadow,magical_attack_void,physical_defense_pierce,physical_defense_slash,physical_defense_blunt,magical_defense_arcane,magical_defense_holy,magical_defense_water,magical_defense_fire,magical_defense_earth,magical_defense_air,magical_defense_nature,magical_defense_shadow,has_void_gland,void_fog_damage,void_fog_range
+1,小恶魔,small,"敏捷的小型魔物，擅长偷袭","301;302",50,30,20,8,6,0.2,0.05,5,3,2,0,0,0,3,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0,0,0
+2,石像鬼,medium,"石质魔物，防御力高但移动缓慢","303;304",150,50,0,4,2,0.05,0.02,3,8,10,0,0,0,0,0,0,0,0,0,0.3,0.4,0.5,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0,0,0
+3,火焰元素,large,"纯粹由火焰构成的元素生物","305;306",200,0,100,5,4,0.1,0.03,0,0,0,0,0,0,15,0,0,0,0,0,0.1,0.1,0.1,0.3,0.3,0.1,0.5,0.3,0.3,0.3,0.3,0,0,0
+4,虚空吞噬者,giant,"能够释放虚空雾的恐怖存在","307;308;309",400,100,200,2,2,0.02,0.01,10,12,15,5,0,0,0,0,0,0,10,0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,1,5,3
+5,暗影猎手,medium,"擅长暗影魔法的敏捷魔物","310;311",120,60,80,7,5,0.15,0.08,8,5,3,0,0,0,0,0,0,0,8,0,0.15,0.15,0.15,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0,0,0
+6,寒冰巨魔,large,"掌控寒冰之力的巨型魔物","312;313",300,80,60,3,3,0.05,0.04,5,8,12,0,0,10,0,0,0,0,0,0,0.2,0.2,0.2,0.2,0.2,0.4,0.2,0.2,0.2,0.2,0.2,0,0,0
+7,腐蚀软泥,small,"具有强腐蚀性的粘液生物","314",80,20,30,6,3,0.1,0.02,2,1,1,0,0,0,0,5,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0,0,0
+8,青霜,small,"伪装成魔法使少女保护村子的梦魇，与安洁莉娜签订了契约（另外，她以为契约后自己成为了安洁莉娜的妻子）。","315;316",50,30,20,8,6,0.2,0.05,5,3,2,0,0,0,3,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0,0,0

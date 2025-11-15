@@ -1,0 +1,9 @@
+state_id,name,duration,is_positive,description,hp_mod,hp_percent_mod,stamina_mod,stamina_percent_mod,holy_light_mod,holy_light_percent_mod,mana_mod,mana_percent_mod,initiative_mod,movement_mod,dodge_mod,crit_mod,physical_attack_pierce_mod,physical_attack_slash_mod,physical_attack_blunt_mod,magical_attack_arcane_mod,magical_attack_holy_mod,magical_attack_water_mod,magical_attack_fire_mod,magical_attack_earth_mod,magical_attack_air_mod,magical_attack_nature_mod,magical_attack_shadow_mod,magical_attack_void_mod,physical_defense_pierce_mod,physical_defense_slash_mod,physical_defense_blunt_mod,magical_defense_arcane_mod,magical_defense_holy_mod,magical_defense_water_mod,magical_defense_fire_mod,magical_defense_earth_mod,magical_defense_air_mod,magical_defense_nature_mod,magical_defense_shadow_mod
+1,中毒,3,0,"每回合损失生命值",-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,狂暴,2,1,"提升物理攻击力但降低防御力",0,0,0,0,0,0,0,0,1,0,0,0.1,0.2,0.15,0,0,0,0,0,0,0,0,0,0,-0.1,-0.1,-0.1,0,0,0,0,0,0,0,0
+3,圣光庇护,3,1,"提升圣光相关属性",0,0.1,0,0,10,0.2,0,0,0,0,0.05,0,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0
+4,冰冻,2,0,"降低移动力和行动速度",0,0,0,0,0,0,0,0,-2,-3,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,火焰附魔,3,1,"武器附加火焰伤害",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,石肤术,2,1,"提升物理防御力",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0.1,0.2,0,0,0,0,0,0,0,0
+7,魔法护盾,2,1,"提升魔法防御力",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0
+8,虚弱诅咒,3,0,"全面降低属性",-10,0,-5,0,0,0,-5,0,-1,-1,-0.05,0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0
